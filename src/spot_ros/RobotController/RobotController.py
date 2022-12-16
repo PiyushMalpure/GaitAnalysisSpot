@@ -1,5 +1,4 @@
 #!/usr/bin/evn python3
-#Author: lnotspotl
 
 import numpy as np
 import tf

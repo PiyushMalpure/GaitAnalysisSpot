@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#Author: lnotspotl
 
 import numpy as np
 from math import sqrt, atan2, sin, cos, pi

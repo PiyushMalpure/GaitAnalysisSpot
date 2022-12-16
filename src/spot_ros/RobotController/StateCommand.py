@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#Author: lnotspotl
 
 import numpy as np
 from enum import Enum

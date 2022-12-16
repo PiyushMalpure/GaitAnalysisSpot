@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-#Author: mike4192 https://github.com/mike4192/spotMicro
-#Modified by: lnotspotl
 
 import numpy as np
 import rospy
