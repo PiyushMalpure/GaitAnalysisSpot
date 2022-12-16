@@ -22,7 +22,7 @@ cd <your_ws>/src
 gitclone https://github.com/PiyushMalpure/GaitAnalysisSpot.git
 ```
 
-#### Launch gazebo  
-roslaunch spot_config gazebo.launch gazebo_world:="default"
+#### Launch gazebo 
+` roslaunch spot_config gazebo.launch gazebo_world:="default"`
 #### Launch keyboard controller
-roslaunch champ_teleop teleop.launch 
+`roslaunch champ_teleop teleop.launch `
