@@ -26,3 +26,7 @@ gitclone https://github.com/PiyushMalpure/GaitAnalysisSpot.git
 ` roslaunch spot_config gazebo.launch gazebo_world:="default"`
 #### Launch keyboard controller
 `roslaunch champ_teleop teleop.launch `
+#### Controller Files
+Controller Files are located inside src/spot_ros/RobotController
+#### Inverse Kinematics 
+Inverse Kinematics files are located inside src/spot_ros/InverseKinematics
